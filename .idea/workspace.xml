@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd6752d-9db1-4b45-aecb-0b262c340ada" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a9563MwELGgRF5TsZYmMyAn4NF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BalancedBracketsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BalancingLimitersProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BalancedBracketsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BalancedBracketsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd6752d-9db1-4b45-aecb-0b262c340ada" name="Default Changelist" comment="" />
+      <created>1586134790729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586134790729</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1268" height="172" key="GridCell.Tab.0.bottom" timestamp="1586137716743">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state width="1268" height="172" key="GridCell.Tab.0.bottom/52.27.1314.741@52.27.1314.741" timestamp="1586137716743" />
+    <state width="1268" height="172" key="GridCell.Tab.0.center" timestamp="1586137716741">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state width="1268" height="172" key="GridCell.Tab.0.center/52.27.1314.741@52.27.1314.741" timestamp="1586137716741" />
+    <state width="1268" height="172" key="GridCell.Tab.0.left" timestamp="1586137716740">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state width="1268" height="172" key="GridCell.Tab.0.left/52.27.1314.741@52.27.1314.741" timestamp="1586137716740" />
+    <state width="1268" height="172" key="GridCell.Tab.0.right" timestamp="1586137716742">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state width="1268" height="172" key="GridCell.Tab.0.right/52.27.1314.741@52.27.1314.741" timestamp="1586137716742" />
+    <state x="381" y="293" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586135305447">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state x="381" y="293" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/52.27.1314.741@52.27.1314.741" timestamp="1586135305447" />
+    <state x="457" y="114" width="493" height="573" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586135248700">
+      <screen x="52" y="27" width="1314" height="741" />
+    </state>
+    <state x="457" y="114" width="493" height="573" key="com.intellij.testIntegration.createTest.CreateTestDialog/52.27.1314.741@52.27.1314.741" timestamp="1586135248700" />
+  </component>
+</project>
